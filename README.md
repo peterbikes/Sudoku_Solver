@@ -36,7 +36,7 @@ Here it is in action:
 
 ## Regarding impossible boards
 
-It will crash on impossible boards, like for example this one:
+It will test all possible solutions, even on impossible boards, like for example this one:
 
 <img src="./extras/impossible_board.png"/>
 
